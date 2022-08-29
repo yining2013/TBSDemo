@@ -22,7 +22,7 @@ public class WebActivity extends BaseWebActivity {
     setWebSettings();
     mWebSettings.setJavaScriptEnabled(true);
     // WebView加载web资源
-    loadUrl("http://debugtbs.qq.com");
+    loadUrl("https://jx.bozrc.com:4433/player/?url=https://www.iqiyi.com/v_1nrosx2rb8k.html");
   }
 
   private void initView() {
